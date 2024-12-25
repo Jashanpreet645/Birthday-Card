@@ -8,5 +8,5 @@ Welcome to the Birthday Card HTML & CSS project! This repository contains a simp
 - Simple HTML & CSS: No JavaScript required! Just HTML and CSS for a straightforward and beginner-friendly project.
 
 # Customization
-You can easily customize the birthday card by:
-Changing the message: Edit the text inside the <h1>, <p>, or any other HTML tag to personalize your message.
+You can easily customize the birthday card by:- <br>
+- Changing the message: Edit the text inside the **h1**, **p**, or any other HTML tag to personalize your message.
